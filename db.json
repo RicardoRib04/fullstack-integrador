@@ -61,6 +61,12 @@
       "curso": "ADS",
       "turno": "NOITE",
       "id": 3
+    },
+    {
+      "nome": "full stack",
+      "curso": "ads",
+      "turno": "noite",
+      "id": 4
     }
   ]
 }
